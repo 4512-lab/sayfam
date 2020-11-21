@@ -1,0 +1,19 @@
+body{ margin: 0; padding: 0; display: flex; flex-direction: column}
+.header{width: 100%; height: 90px; background: ; font: bold 60px italic; text-align: center; color:#ffffff; display: inline; margin-bottom: 5px; padding: 20px 0 0 0; background-image: url( "18.png"); background-repeat: no-repeat; background-position: center}
+.menu{width: 100%; height: 80px; background: #9FD1B9 ; display: flex;color:#111010; display: inline;}
+.menu ul li{list-style: none; display: inline-block; margin-top:10px; padding: 5px;  justify-content: space-around;  } 
+.menu a{color: #ffffff; font-size: 20px; text-decoration: none; box-sizing: border-box; border: 1px solid black; padding: 10px; margin:0 110px; color:#111010}
+.menu li:hover a{color:#073f68; background: white  }
+.a{width: 100%; height: 700px}
+.solalan{width: 30%; height: 700px; background:#7a8b8b    ; float: left; text-align: center;}
+.ortaalan{width: 40%; height: 700px; background:#ffffff;  float: left;  border-top: 1px solid #000000; border-bottom: 1px solid #000000}
+.sagalan{width: 30%; height: 700px; background: #7a8b8b ; float: left;}
+.footer{width: 80%; height: 50px; background:#9FD1B9;  text-align: center; float: left; padding: 30px 0 0 0; }
+.sosyal{width: 20%; height: 80px; background:#9FD1B9;  text-align:center; float: left;}
+.A{width: 100%; height: 80px}
+.c{width: 500px; height: 400px; margin: 100px auto 0 auto}
+.v{width: 500px; height: 300px; margin: 100px auto 0 auto; background-image: url("24.png")}
+.ortaalan .c h3{text-align: center}
+.solalan p{text-align: center; font-size: 15px; margin: 150px auto 50px auto}
+.sagalan p{text-align: center; font-size: 15px; margin: 150px auto 50px auto}
+ 
